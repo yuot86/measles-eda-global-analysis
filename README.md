@@ -23,3 +23,10 @@ This project analyses global measles trends using WHO surveillance data, applyin
 - Predictive modelling suggests continued decline with uncertainty
 
 ## 📁 Project Structure
+
+## 📊 Results
+
+- Linear regression shows a **significant decline** in global measles cases (R² ≈ 0.67)
+- Random Forest achieved **81.5% accuracy** in identifying high-risk cases
+- XGBoost achieved **100% accuracy** (potential overfitting identified)
+- Africa accounts for the **highest global measles burden (>2M cases)**
