@@ -30,11 +30,10 @@ This project analyses global measles trends using WHO surveillance data, applyin
 - Random Forest achieved **81.5% accuracy** in identifying high-risk cases
 - XGBoost achieved **100% accuracy** (potential overfitting identified)
 - Africa accounts for the **highest global measles burden (>2M cases)**
-
 ## 📈 Global Measles Trend
 
-![Global Trend](global-trend.png)
+![Global Trend](measles_u3029521_files/figure-docx/global-trend-1.png)
 
 ## 🌍 Top 30 Countries Heatmap
 
-![Heatmap](heatmap.png)
+![Heatmap](measles_u3029521_files/figure-docx/heatmap-1.png)
